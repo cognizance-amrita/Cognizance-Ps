@@ -14,4 +14,4 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_COGNIZANCE_PS }}'
-          projectId: cognizance-club
+          projectId: cognizance-ps
