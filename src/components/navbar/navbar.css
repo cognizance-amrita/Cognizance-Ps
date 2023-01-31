@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Suez+One&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Comfortaa';
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  padding: 0 2rem;
+  background-color: transparent;
+  color: azure;
+  margin-bottom: 10vh;
+}
+.Logo{
+  height: 55px;
+}
+.clogo{
+  width: 3rem;
+  margin-top: 3rem;
+  margin-left: 1.5rem;
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  margin-top: 3.8rem;
+  padding-left: 160px;
+}
+nav li{
+  margin-left: 70px;
+  text-decoration: none;
+  color: azure;
+  list-style: none;
+  margin-top: 0.8rem;
+  font-size: 1.2rem;
+}
+nav li a{
+  text-decoration: none;
+  color: azure;
+  font-size: 18px;
+  position: relative;
+}
+nav li a:hover{
+  color: rgb(0, 255, 247);
+}
+
+nav li a::after{
+  content: ' ';
+  position:absolute;
+  top: 25px;
+  left: 50%;
+  width: 0%;
+  height: 1px;
+  background: rgb(0, 255, 247);
+  transition: 0.4s ease-in-out;
+}
+nav li a:hover::after{
+  left: 0;
+  width: 100%;
+}
+.apply-B{
+  padding-top: 60px;
+  padding-right:10px;
+}
+.B {
+  box-sizing: border-box;
+  background-color: transparent;
+  border-radius: 30px;
+  color: #e74c3c;
+  cursor: pointer;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 200;
+  line-height: 0.2;
+  padding: 1.2em 2.8em;
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Comfortaa';
+  font-weight: 500;
+}
+.B:hover, .B:focus {
+  color: #fff;
+  outline: 0;
+}
+.third {
+  border-color: #3498db;
+  color: #fff;
+  box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+}
+.third:hover {
+  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+}
+.nav_btn{
+    padding: 5px;
+    cursor: pointer;
+    background:transparent;
+    border: none;
+    outline: none;
+    color: azure;
+    visibility: hidden;
+    opacity: 0;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.nav_bar{
+    margin-top: 3rem;
+}
+@media screen and (max-width: 1440px){
+ 
+  nav li{
+    margin-left: 5rem;
+  }
+
+}
+  
+@media screen and (max-width: 1090px){
+   
+  .nav_btn{
+    visibility: visible;
+    opacity: 1;
+  }
+  .Logo{
+    height: 43px;
+  }
+  .clogo{
+    margin-left: 0.7rem;
+  }
+  nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    background-color: rgba(35, 25, 85, 0.8);
+    transition: 1s;
+    transform: translateY(-110vh);
+    margin-top: 0rem;
+    padding-left: 0px;
+    z-index: 1000;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.6);
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+  }
+  nav li{
+    margin-left: 0;
+    font-size: 1.5rem;
+    margin: 0.5rem 0;
+    
+  }
+  .nav_open{
+    transform: translateY(0);
+  }
+  .nav_close{
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+  }
+  .apply-B{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 450px){
+ 
+  header{
+    margin-bottom: 5vh;
+    /*position: fixed;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    padding: 0 2rem;
+    background-color: transparent;
+    color: azure;
+    margin-bottom: 10vh;
+    z-index: 1000;
+  }
+
+}
+  
