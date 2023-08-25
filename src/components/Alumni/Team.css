@@ -1,0 +1,26 @@
+
+
+/* ------------ CSS FOR RESPONSIVENESS ------------ */
+.team {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 2rem;
+  justify-content: space-around;
+  justify-items: center;
+  padding: 4rem;
+
+
+}
+
+.contbg{
+  /*background-image: linear-gradient(rgba(255, 223, 229, 0.998), rgb(189, 130, 238));*/
+  /*text-align: center;*/
+  /*background-image: linear-gradient(to top, #E9A6A6, #864879, #3F3351,  #1F1D36);*/
+  /*background-image: linear-gradient(to bottom, #231955 75%, rgba(31, 38, 135, 0.6) 100%);*/
+  background-image: linear-gradient(to top,#001028, #3d2720, #3d2720, #001028);
+}
+
+
+
+
+

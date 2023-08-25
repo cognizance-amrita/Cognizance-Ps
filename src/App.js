@@ -6,6 +6,7 @@ import { BrowserRouter as Router , Route , Routes } from 'react-router-dom';
 import Achievements from "./components/Achievements/Achievements";
 import Footer from "./components/Footer/Footer";
 import Team from "./components/Team/Team";
+import Alumni from "./components/Alumni/Team";
 import Gallery from "./components/Gallery/Gallery";
 import Err404 from "./components/Err404/Err404";
 function App() {
@@ -18,6 +19,7 @@ function App() {
                   <Route path="/achievements" element={<Achievements/>} />
                   <Route path="/footer" element={<Footer/>} />
                   <Route path="/team" element={<Team />} />
+                  <Route path="/alumni" element={<Alumni />} />
                   <Route path="/gallery" element={<Gallery />} />
                   <Route path="*" element={<Err404 />} />
               </Routes>
