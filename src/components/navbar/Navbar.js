@@ -24,6 +24,9 @@ const Navbar = () => {
                     <li>
                         <a href="/team"> The Team </a>
                     </li>
+                    <li>
+                        <a href="/alumni">  Alumni </a>
+                    </li>
         
                     {/*<li>*/}
                     {/*    <a href="/#Achievements"> Achievements </a>*/}
