@@ -63,6 +63,7 @@ import img61 from "../Images/DisplayPics/61.jpg";
 import img62 from "../Images/DisplayPics/62.jpg";
 import img63 from "../Images/DisplayPics/63.jpg";
 import img64 from "../Images/DisplayPics/64.jpg";
+import img65 from "../Images/DisplayPics/65.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -89,7 +90,7 @@ const Team = () => {
       post:'Club Lead',
       dom:'mailto:tarungovindharaj2003@gmail.com',
       desc:'Hey y\'all I\'m Tarun from CSE department. Im was jr mentor for competitive programming. I\'m a Devops and AI enthusiast. I love to learn new things and to read.',
-      mail:'',
+      mail:'mailto:tarungovindharaj2003@gmail.com',
       gitHub:'https://github.com/Tr1ck-5t3r',
       linkIn:'https://www.linkedin.com/in/tarun-r-g-02224a256/',
       insta:'https://www.instagram.com/tr1ck_5t3r/'
@@ -121,7 +122,7 @@ const Team = () => {
     {
       id:99,
       src:img38,
-      name:"Umme Roman",
+      name:"Umme Rooman",
       post:"Co-ordinator",
       dom:"Open Source Domain",
       desc: "Hi! I am Umme. I have been a part of the cyber security domain for a year and the open source domain for more than 3 months. My experience as a mentor in the open source domain has developed my organisational skills and has increased my curiousity in the evergrowing field of web development. My other domains of interest include web security and data analysis.",
@@ -139,10 +140,25 @@ const Team = () => {
       post:'Mentor',
       dom:'Open Source Domain',
       desc:'I am Moulika, a second-year Btech Computer Science student. I am one of the OS domain\'s mentors. My areas of interest include front-end development and machine learning. I would really like to work in this field, learn more about it, and enhance my understanding of it.',
-      mail:'',
-      gitHub:'',
-      linkIn:'',
-      insta:'',
+      mail:"mailto:moulikasai183@gmail.com",
+      gitHub:"https://github.com/moulika183",
+      linkIn:"https://www.linkedin.com/in/moulika-sai-b472ab257",
+      insta:"https://instagram.com/moulika_sai_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",  
+      
+
+    },
+    {
+      id:121,
+      src:img65,
+      name:'Nehal Khan',
+      post:'Mentor',
+      dom:'Open Source Domain',
+      desc:'Hi! Im Nehal Khan, student in CSE department, Im a passionate coder with a keen interest in Operating Systems and Artificial Intelligence. I thrive on the thrill of open-source projects, turning lines of code into innovative realities.',
+      mail:"",
+      gitHub:"https://github.com/Nehal-Khan-29",
+      linkIn:"https://www.linkedin.com/in/nehal-khan-29--",
+      insta:"https://www.instagram.com/nk29_nehal/?igshid=ODhmNDk1YzU=",  
+      
 
     },
     
@@ -153,10 +169,12 @@ const Team = () => {
       post: "Mentor",
       dom: "Open Source Domain",
       desc: "I have been a member of the cognizance club for about a year now. I am a curious person and I like experimenting with stuff apart from the curriculum. I have a little exposure to libraries and frameworks. This club has kindled my interest in various areas in my domain and being a mentor impels me to learn more.",
-      mail:"",
-      gitHub:"",
-      linkIn:"",
-      insta:"",      
+      
+      mail:'',
+      gitHub:'',
+      linkIn:'',
+      insta:'',
+          
     },
     {
       id:109,
@@ -164,10 +182,10 @@ const Team = () => {
       name:'Jahnavi',
       post:'Mentor  ',
       dom:'OS domain',
-      desc:'',
-      mail:'',
-      gitHub:'',
-      linkIn:'',
+      desc:'Im Jahnavi, a third-year CSE student. I serve as an open-source mentor, my areas of interest include Web development, Machine learning and UI/UX designing. Being a mentor helps me grow with my fellow members, help them and improve myself at the same time.',
+      mail:'mailto:ch.en.u4cse21146@ch.students.amrita.edu',
+      gitHub:'https://github.com/Jahnavii25',
+      linkIn:'https://www.linkedin.com/in/p-jahnavi-681964288',
       insta:''
     },
     {
@@ -201,10 +219,10 @@ const Team = () => {
       post:'Mentor ',
       dom:'CP domain',
       desc:'',
-      mail:'',
-      gitHub:'',
-      linkIn:'',
-      insta:''
+      mail:'mailto:prakash.abhijith23@gmail.com',
+      gitHub:'http://GitHub.com/IndexPosition',
+      linkIn:'http://linkedin.com/in/abhijithprakash2003',
+      insta:'http://instagram.com/bluehostile/'
     },
     {
       id:109,
@@ -212,8 +230,8 @@ const Team = () => {
       name:'Harine Vidyasekaran ',
       post:'Mentor ',
       dom:'CP domain',
-      desc:'',
-      mail:'',
+      desc:'Hey, Im Harine- from CSE 3rd year. I am a mentor in the Competitive programming domain. I am passionate about Entrepreneurship and my dream is to launch a successful startup. Im also enthusiastic about coding and- just life in general.',
+      mail:'mailto:ch.en.u4cse21121@ch.students.amrita.edu',
       gitHub:'https://github.com/Harine19',
       linkIn:'https://www.linkedin.com/in/harine-vidyasekaran/',
       insta:''
