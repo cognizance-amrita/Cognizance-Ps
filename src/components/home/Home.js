@@ -15,6 +15,7 @@ import {AiFillPushpin} from 'react-icons/ai';
 import {BsChatQuoteFill} from 'react-icons/bs';
 import {GoBeaker} from 'react-icons/go';
 import {GoTools } from 'react-icons/go';
+import CP from '../Images/Illustrations/CP.png';
 import OS from '../Images/Illustrations/OS.png';
 import CYS from '../Images/Illustrations/CYS.jpg';
 import ML from '../Images/Illustrations/ML.jpg';
@@ -173,7 +174,7 @@ function Home() {
                                                 </p>
                                             </div>
                                             <div className="column">
-                                                <img src={CYS} className="OS" alt=""/>
+                                                <img src={CP} className="OS" alt=""/>
                                             </div>
                                         </div>
                                     </div>
