@@ -37,7 +37,7 @@ const Navbar = () => {
                     </li>
 
                     <li>
-                        <a href="https://preliminary-tasks.cognizance-amrita.in/" target="_blank" rel="noreferrer"> Preliminary Tasks </a>
+                        <a href="https://preliminary-tasks.cognizance-amrita.in/" target="_blank" rel="noreferrer"> Weekly Tasks </a>
                     </li>
                     
                     <li>
