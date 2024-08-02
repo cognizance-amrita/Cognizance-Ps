@@ -41,7 +41,7 @@ const Navbar = () => {
                     </li>
                     
                     <li>
-                        <a href="https://docs.google.com/forms/d/1i_s_uqJnGm5YFVm1juMnZ2F05LxnnPMti-XTq7twSWI"> Apply </a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfO8NJdNarKcUo3ZuEjn6pNGOjrbQ1i6LECyazYypPbmcKOA/viewform?usp=sf_link"> Apply </a>
                     </li>
 
                     <button className="nav_btn nav_close" onClick={handleClick}>
