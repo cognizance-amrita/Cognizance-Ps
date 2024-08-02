@@ -163,6 +163,27 @@ function Home() {
                                     <div className="info">
                                         <div className="row4">
                                             <div className="column">
+                                                <h5 className="infotxt">Competetive Programming</h5>
+                                                <p className="infot">A mind sport where participants solve 
+                                                    algorithmic problems within a time limit. It enhances 
+                                                    problem-solving and coding skills, often involving 
+                                                    contests like Codeforces, LeetCode, and HackerRank. 
+                                                    Participants write efficient code to solve complex 
+                                                    problems, aiming to optimize both speed and accuracy. 
+                                                </p>
+                                            </div>
+                                            <div className="column">
+                                                <img src={CYS} className="OS" alt=""/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="column5">
+                                <div className="card2">
+                                    <div className="info">
+                                        <div className="row4">
+                                            <div className="column">
                                                 <h5 className="infotxt">Cyber Security</h5>
                                                 <p className="infot">The practise of defending computers,
                                                     servers, mobile devices, electronic systems, networks,
