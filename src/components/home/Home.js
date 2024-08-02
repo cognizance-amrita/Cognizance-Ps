@@ -15,7 +15,7 @@ import {AiFillPushpin} from 'react-icons/ai';
 import {BsChatQuoteFill} from 'react-icons/bs';
 import {GoBeaker} from 'react-icons/go';
 import {GoTools } from 'react-icons/go';
-import CP from '../Images/Illustrations/CP.jpeg';
+import CP from '../Images/Illustrations/CP.png';
 import OS from '../Images/Illustrations/OS.png';
 import CYS from '../Images/Illustrations/CYS.jpg';
 import ML from '../Images/Illustrations/ML.jpg';
