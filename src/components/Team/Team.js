@@ -13,6 +13,7 @@ import img71 from "../Images/DisplayPics/71.jpg";
 import img72 from "../Images/DisplayPics/72.jpg";
 import img73 from "../Images/DisplayPics/73.jpg";
 import img74 from "../Images/DisplayPics/74.jpg";
+import img75 from "../Images/DisplayPics/75.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -72,7 +73,7 @@ const Team = () => {
     },
     {
       id:99,
-      src:img00,
+      src:img75,
       name:'M. Jahnavi',
       post:'Mentor',
       dom:'Open Source domain',
