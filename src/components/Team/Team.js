@@ -144,7 +144,7 @@ const Team = () => {
     {
       id:109,
       src:img73,
-      name:'Jagadeep',
+      name:'Jagaadhep U K',
       post:'Mentor',
       dom:'AI domain',
       desc:'Hi everyone! I’m Jagaadhep, a passionate coder and problem solver with a deep interest in Artificial Intelligence and Cloud Computing. I thrive on working with data and creating impactful applications. I am highly excited to collaborate, innovate, and learn together with all of you!',
