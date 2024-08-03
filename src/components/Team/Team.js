@@ -170,7 +170,7 @@ const Team = () => {
       name:'Subramanian',
       post:'Mentor ',
       dom:'CYS domain',
-      desc:'Hi there! I'm Subramanian, a competitive programmer and cybersecurity enthusiast. I'm here to help you elevate your understanding of technology and computing. I'll guide you in optimizing your algorithms from O(N^2) to O(N) and teach you how to apply "Mr. Robot" style techniques in real life. I will help you add your skills, commit to learning, and push your progress with me!',
+      desc:"Hi there! I'm Subramanian, a competitive programmer and cybersecurity enthusiast. I'm here to help you elevate your understanding of technology and computing. I'll guide you in optimizing your algorithms from O(N^2) to O(N) and teach you how to apply 'Mr. Robot' style techniques in real life. I will help you add your skills, commit to learning, and push your progress with me!",
       mail:'vishnusubramani8@gmail.com',
       gitHub:'http://github.com/subra123',
       linkIn:'https://www.linkedin.com/in/subramanian-r-5b86bb215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
