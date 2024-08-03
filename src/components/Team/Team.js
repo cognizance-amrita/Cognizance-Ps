@@ -9,6 +9,7 @@ import img67 from "../Images/DisplayPics/67.jpg";
 import img68 from "../Images/DisplayPics/68.jpg";
 import img69 from "../Images/DisplayPics/69.jpg";
 import img70 from "../Images/DisplayPics/70.jpg";
+import img71 from "../Images/DisplayPics/71.jpg";
 import img72 from "../Images/DisplayPics/72.jpg";
 import img73 from "../Images/DisplayPics/73.jpg";
 import img74 from "../Images/DisplayPics/74.jpg";
@@ -119,15 +120,15 @@ const Team = () => {
     },
     {
       id:109,
-      src:img00,
-      name:'Jeba',
+      src:img71,
+      name:'Jeba Rachel Nesica',
       post:'Mentor ',
       dom:'AI domain',
-      desc:'',
-      mail:'mailto:',
-      gitHub:'',
-      linkIn:'',
-      insta:''
+      desc:"Hello, I'm Jeba Rachel Nesica from the CSE department. As an AI enthusiast, I truly value sharing knowledge and fostering understanding in this field.",
+      mail:'mailto:jebarachelnesica@gmail.com',
+      gitHub:'https://github.com/Jeba-Rachel-Nesica',
+      linkIn:'https://www.linkedin.com/in/jeba-rachel-nesica-830202252',
+      insta:'https://www.instagram.com/jeba__j4?igsh=MW9mempod3dtdWh5Zg=='
     },
     {
       id:109,
@@ -183,7 +184,7 @@ const Team = () => {
       name:'Keerthi Rohan',
       post:'Mentor ',
       dom:'CYS domain',
-      desc:'',
+      desc:'Hello! I am Keerthi Rohan, a passionate and dedicated professional with machine learning, Python, and cybersecurity expertise. I have completed a project in image generation and segmentation and have undertaken several cybersecurity courses. I am always eager to learn new things and expand my knowledge in various fields.',
       mail:'mailto:rohan1234.keerthi@gmail.com',
       gitHub:'https://github.com/rancidghoul',
       linkIn:'https://www.linkedin.com/in/rohan-keerthi-31451625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
