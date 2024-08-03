@@ -6,6 +6,9 @@ import img50 from '../Images/DisplayPics/50.jpg';
 import img65 from "../Images/DisplayPics/65.jpg";
 import img66 from "../Images/DisplayPics/66.jpg";
 import img67 from "../Images/DisplayPics/67.jpg";
+import img68 from "../Images/DisplayPics/68.jpg";
+import img69 from "../Images/DisplayPics/69.jpg";
+import img70 from "../Images/DisplayPics/70.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -101,7 +104,7 @@ const Team = () => {
     },
     {
       id: 90,
-      src:img59,
+      src:img70,
       name:"Shalini Dheenadhayalan",
       post:"Mentor",
       dom:"AI Domain",
@@ -125,7 +128,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:img00,
+      src:img69,
       name:'Ragi Pranav',
       post:'Mentor',
       dom:'AI domain',
@@ -189,24 +192,24 @@ const Team = () => {
       name:'Sreeram Rohith',
       post:'Mentor',
       dom:'CYS domain',
-      desc:'',
-      mail:'',
+      desc:'I am Sreeram Rohith. Student from CSE. I have completed projects on the self-identity of mental health using AI and machine learning, as well as on image steganography. Additionally, I have a strong interest in the cybersecurity domain. As a mentor in the Cognizance Club at Amrita University Chennai.',
+      mail:'sreeramrohithamrita@gmail.com',
       gitHub:'',
-      linkIn:'',
-      insta:''
+      linkIn:'https://www.linkedin.com/in/sreeram-rohith-449416262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+      insta:'https://www.instagram.com/sreeramrohith5?igsh=bGloN3MzNG0wNW8w'
     },
 
     
     {
       id:109,
-      src:img00,
+      src:img68,
       name:"Kaushik Kumbhat",
       post:"Mentor",
       dom:"CP Domain",
-      desc:"",
-      mail:"",
-      gitHub:"",
-      linkIn:"",
+      desc:"As an enthusiastic Computer Science Engineering student at Amrita University, I have cultivated a passion for developing innovative software solutions that address real-world problems.",
+      mail:"kaushikkumbhat54@gmail.com",
+      gitHub:"https://github.com/kaushik54git",
+      linkIn:"https://www.linkedin.com/in/kaushik-kumbhat-747a08292/",
       insta:""
     },
     {
