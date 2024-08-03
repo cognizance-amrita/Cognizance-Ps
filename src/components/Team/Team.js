@@ -74,7 +74,7 @@ const Team = () => {
     },
     {
       id:99,
-      src:img75,
+      src:img00,
       name:'M. Jahnavi',
       post:'Mentor',
       dom:'Open Source domain',
@@ -232,7 +232,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:img00,
+      src:img75,
       name:"Shyam",
       post:"Mentor",
       dom:"CP Domain",
