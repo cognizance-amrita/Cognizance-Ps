@@ -57,13 +57,11 @@ import img55 from "../Images/DisplayPics/55.jpg";
 import img56 from "../Images/DisplayPics/56.jpg";
 import img57 from "../Images/DisplayPics/57.jpg";
 import img58 from "../Images/DisplayPics/58.jpg";
-import img59 from "../Images/DisplayPics/59.jpg";
 import img60 from "../Images/DisplayPics/60.jpg";
 import img61 from "../Images/DisplayPics/61.jpg";
 import img62 from "../Images/DisplayPics/62.jpg";
 import img63 from "../Images/DisplayPics/63.jpg";
 import img64 from "../Images/DisplayPics/64.jpg";
-import img65 from "../Images/DisplayPics/65.jpg";
 
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
