@@ -147,7 +147,7 @@ const Team = () => {
       name:'Jagadeep',
       post:'Mentor',
       dom:'AI domain',
-      desc:'',
+      desc:'Hi everyone! I’m Jagaadhep, a passionate coder and problem solver with a deep interest in Artificial Intelligence and Cloud Computing. I thrive on working with data and creating impactful applications. I am highly excited to collaborate, innovate, and learn together with all of you!',
       mail:'mailto:ukjag2000@gmail.com',
       gitHub:'https://github.com/UKJaagadhep',
       linkIn:'https://www.linkedin.com/in/jagaadhep-u-k-64487728a/',
