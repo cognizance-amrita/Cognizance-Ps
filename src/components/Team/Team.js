@@ -194,7 +194,7 @@ const Team = () => {
       dom:'CYS domain',
       desc:'I am Sreeram Rohith. Student from CSE. I have completed projects on the self-identity of mental health using AI and machine learning, as well as on image steganography. Additionally, I have a strong interest in the cybersecurity domain. As a mentor in the Cognizance Club at Amrita University Chennai.',
       mail:'sreeramrohithamrita@gmail.com',
-      gitHub:'',
+      gitHub:'https://github.com/Sreeramrohith2005',
       linkIn:'https://www.linkedin.com/in/sreeram-rohith-449416262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       insta:'https://www.instagram.com/sreeramrohith5?igsh=bGloN3MzNG0wNW8w'
     },
