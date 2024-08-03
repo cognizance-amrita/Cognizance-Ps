@@ -73,13 +73,12 @@ const Team = () => {
     },
     
     {
-      id: 90,
-      src: img00,
-      name: "Rohith Prasanna",
-      post: "Mentor",
-      dom: "Open Source Domain",
-      desc: "",
-      
+      id:90,
+      src:img00,
+      name:"Rohith Prasanna",
+      post:"Mentor",
+      dom:"Open Source Domain",
+      desc:" ",
       mail:'',
       gitHub:'',
       linkIn:'',
@@ -88,7 +87,7 @@ const Team = () => {
     },
     {
       id:109,
-      src: img00,
+      src:img00,
       name:'Meesala Jahnavi',
       post:'Mentor',
       dom:'Open Source domain',
@@ -100,7 +99,7 @@ const Team = () => {
     },
     {
       id:85,
-      src: img00,
+      src:img00,
       name:"Neelraj Reddy",
       post:"Mentor",
       dom:"Open Source Domain",
@@ -112,7 +111,7 @@ const Team = () => {
     },
     {
       id:109,
-      src: img00,
+      src:img00,
       name:'Manasa',
       post:'Mentor',
       dom:'AI domain',
@@ -136,7 +135,7 @@ const Team = () => {
     },
     {
       id:109,
-      src: img00,
+      src:img00,
       name:'Jeba',
       post:'Mentor ',
       dom:'AI domain',
@@ -148,7 +147,7 @@ const Team = () => {
     },
     {
       id:109,
-      src: img00,
+      src:img00,
       name:'Ragi Pranav',
       post:'Mentor',
       dom:'AI domain',
@@ -160,7 +159,7 @@ const Team = () => {
     },
     {
       id:109,
-      src: img00,
+      src:img00,
       name:'Jagadeep',
       post:'Mentor',
       dom:'AI domain',
@@ -172,7 +171,7 @@ const Team = () => {
     },
     {
       id:109,
-      src: img00,
+      src:img00,
       name:'Sreenija',
       post:'Mentor ',
       dom:'AI domain',
@@ -184,7 +183,7 @@ const Team = () => {
     },
     {
       id:109,
-      src: img00,
+      src:img00,
       name:'Subramanian',
       post:'Mentor ',
       dom:'CYS domain',
@@ -196,7 +195,7 @@ const Team = () => {
     },
     {
       id:109,
-      src: img00,
+      src:img00,
       name:'Keerthi Rohan',
       post:'Mentor ',
       dom:'CYS domain',
@@ -208,7 +207,7 @@ const Team = () => {
     },
     {
       id:109,
-      src: img00,
+      src:img00,
       name:'Sreeram Rohith',
       post:'Mentor',
       dom:'CYS domain',
@@ -222,7 +221,7 @@ const Team = () => {
     
     {
       id:85,
-      src: img00,
+      src:img00,
       name:"Kaushik Kumbhat",
       post:"Mentor",
       dom:"CP Domain",
@@ -233,20 +232,20 @@ const Team = () => {
       insta:""
     },
     {
-      id: 32,
-      src: img66,
-      name: "Adithiyan",
-      post: "Mentor",
-      dom: "CP Domain",
-      desc: "Hi, I'm Adithiyan from the Artificial Intelligence and Engineering (AIE) department. I'm a dedicated self-taught programmer and a machine learning enthusiast. In my free time, I sharpen my problem-solving skills on LeetCode. My domains of interest lies in Full Stack development, Cloud services, and Computer vision.I am always eager to expand my knowledge and expertise in the widest domain of computer science.",
-      mail: "mailto:adithiyan999@gmail.com",
-      gitHub: "https://github.com/Adithiyanpv",
-      linkIn: "https://www.linkedin.com/in/adithiyan-pv-68639b258/",
-      insta: "https://www.instagram.com/adithiyan_pv/",
+      id:32,
+      src:img66,
+      name:"Adithiyan",
+      post:"Mentor",
+      dom:"CP Domain",
+      desc:"Hi, I'm Adithiyan from the Artificial Intelligence and Engineering (AIE) department. I'm a dedicated self-taught programmer and a machine learning enthusiast. In my free time, I sharpen my problem-solving skills on LeetCode. My domains of interest lies in Full Stack development, Cloud services, and Computer vision.I am always eager to expand my knowledge and expertise in the widest domain of computer science.",
+      mail:"mailto:adithiyan999@gmail.com",
+      gitHub:"https://github.com/Adithiyanpv",
+      linkIn:"https://www.linkedin.com/in/adithiyan-pv-68639b258/",
+      insta:"https://www.instagram.com/adithiyan_pv/",
     },
     {
       id:85,
-      src: img00,
+      src:img00,
       name:"Shyam",
       post:"Mentor",
       dom:"CP Domain",
