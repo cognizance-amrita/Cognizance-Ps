@@ -11,6 +11,7 @@ import img69 from "../Images/DisplayPics/69.jpg";
 import img70 from "../Images/DisplayPics/70.jpg";
 import img71 from "../Images/DisplayPics/71.jpg";
 import img72 from "../Images/DisplayPics/72.jpg";
+import img73 from "../Images/DisplayPics/73.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -142,15 +143,14 @@ const Team = () => {
     },
     {
       id:109,
-      src:img00,
+      src:img73,
       name:'Jagadeep',
       post:'Mentor',
       dom:'AI domain',
       desc:'',
-      mail:'',
-      gitHub:'',
-      linkIn:'',
-      insta:''
+      mail:'ukjag2000@gmail.com',
+      gitHub:'https://github.com/UKJaagadhep',
+      linkIn:'https://www.linkedin.com/in/jagaadhep-u-k-64487728a/',
     },
     {
       id:109,
