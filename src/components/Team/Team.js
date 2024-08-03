@@ -61,7 +61,7 @@ const Team = () => {
       insta:"https://www.instagram.com/nk29_nehal/?igshid=ODhmNDk1YzU=",  
     },
     {
-      id:121,
+      id:122,
       src:img74,
       name:'Manasa',
       post:'Club Lead',
@@ -73,7 +73,7 @@ const Team = () => {
       insta:'https://www.instagram.com/madhumanasa_99?igsh=MTljMmphbjU1MDJiZw=='
     },
     {
-      id:109,
+      id:99,
       src:img67,
       name:'Sreeram Rohith',
       post:'Club Co-Lead',
@@ -85,7 +85,7 @@ const Team = () => {
       insta:'https://www.instagram.com/sreeramrohith5?igsh=bGloN3MzNG0wNW8w'
     },
     {
-      id:99,
+      id:121,
       src:img76,
       name:'M Jahnavi',
       post:'Mentor',
@@ -97,7 +97,7 @@ const Team = () => {
       insta:''
     },
     {
-      id:122,
+      id:121,
       src:img00,
       name:"Rohith Prasanna",
       post:"Mentor",
@@ -109,7 +109,7 @@ const Team = () => {
       insta:'https://www.instagram.com/r.p_0102?igsh=MTBwbWRlMXlneWU0dA==',   
     },
     {
-      id:109,
+      id:90,
       src:img78,
       name:'Doddi Sreenija Reddy',
       post:'Mentor ',
@@ -157,7 +157,7 @@ const Team = () => {
       insta:''
     },
     {
-      id: 90,
+      id: 109,
       src:img70,
       name:"Shalini Dheenadhayalan",
       post:"Mentor",
@@ -229,7 +229,7 @@ const Team = () => {
       insta:"https://www.instagram.com/@klustere.pvt/"
     },
     {
-      id:121,
+      id:85,
       src:img00,
       name:"Neelraj Reddy",
       post:"Mentor",
