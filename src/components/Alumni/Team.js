@@ -96,7 +96,8 @@ const Team = () => {
       gitHub: '',
       linkIn: '',
       insta: '',
-    },{
+    },
+    {
       id:122,
       src:img53,
       name:'Amirthavarshini V',
@@ -107,7 +108,6 @@ const Team = () => {
       gitHub:'https://github.com/Amirtha2503',
       linkIn:'https://www.linkedin.com/in/amirthavarshini-v-a89520223/',
       insta:'https://www.instagram.com/_amirtha_v',
-
     },    
     {
       id:99,
@@ -121,8 +121,6 @@ const Team = () => {
       linkIn:"https://www.linkedin.com/in/umme-rooman-wahab",
       insta:"",
     },
-    
-
      {
       id:121,
       src:img51,
@@ -142,12 +140,10 @@ const Team = () => {
       post: "Mentor",
       dom: "Open Source Domain",
       desc: "I have been a member of the cognizance club for about a year now. I am a curious person and I like experimenting with stuff apart from the curriculum. I have a little exposure to libraries and frameworks. This club has kindled my interest in various areas in my domain and being a mentor impels me to learn more.",
-      
       mail:'',
       gitHub:'',
       linkIn:'',
       insta:'',
-          
     },
     {
       id:109,
@@ -269,8 +265,6 @@ const Team = () => {
       linkIn:'',
       insta:''
     },
-
-    
     {
       id:85,
       src:img41,
@@ -343,7 +337,6 @@ const Team = () => {
       linkIn:"",
       insta:"",
     },
-
     {
       id: 17,
       src: img15,
@@ -392,7 +385,6 @@ const Team = () => {
       linkIn: "https://www.linkedin.com/in/sudiptha-athmaraman-060135202",
       insta: "https://www.instagram.com/sudiptha_reddy",
     },
-    
     {
       id:98,
       src:img39,
@@ -405,8 +397,6 @@ const Team = () => {
       linkIn:"",
       insta:"",
     },
-
-    
     {
       id: 29,
       src: img31,
@@ -419,7 +409,6 @@ const Team = () => {
       linkIn: "https://www.linkedin.com/in/vignesh-kumar-8101581b0/",
       insta: "https://www.instagram.com/cool_man_vk/",
     },
-    
     {
       id: 26,
       src: img29,
@@ -444,7 +433,6 @@ const Team = () => {
       linkIn: "https://www.linkedin.com/in/yurekan-ramasamy-b30397220/",
       insta: "https://www.instagram.com/yukes_21/",
     },
-
     {
       id:84,
       src:img42,
@@ -493,7 +481,6 @@ const Team = () => {
       linkIn: "https://www.linkedin.com/in/shandilyathithyaa-manivannan-a760401bb/",
       insta: "https://www.instagram.com/_shandilyathithyaa_/",
     },
-    
     {
       id: 20,
       src: img20,
@@ -591,7 +578,6 @@ const Team = () => {
       linkIn:'',
       insta:''
     },
-    
     {
       id: 18,
       src: img17,
@@ -613,7 +599,6 @@ const Team = () => {
       linkIn: "https://www.linkedin.com/in/reaperdhan",
       insta: "https://www.instagram.com/_.r34p3r_dhan._/",
     },  
-    
     {
       id: 19,
       src: img23,
@@ -626,8 +611,6 @@ const Team = () => {
       linkIn: "https://www.linkedin.com/in/aghilan-a-716521230/",
       insta: "",
     },
-
-    
     {
       id: 22,
       src: img30,
@@ -640,8 +623,6 @@ const Team = () => {
       linkIn: "https://www.linkedin.com/in/shraddha-chopra-57978b1b0/",
       insta: "https://www.instagram.com/_.__shraddha/",
     },
-
-    
     {
       id: 25,
       src: img27,
@@ -654,9 +635,6 @@ const Team = () => {
       linkIn: "https://www.linkedin.com/in/rahul-sreenivasan-aa9293215",
       insta: "https://instagram.com/__.r4hul___",
     },
-
-
-
     {
       id: 4,
       src: img4,
