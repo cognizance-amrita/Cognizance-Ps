@@ -184,10 +184,10 @@ const Team = () => {
       post:'Mentor ',
       dom:'CYS domain',
       desc:'',
-      mail:'mailto:',
-      gitHub:'',
-      linkIn:'',
-      insta:''
+      mail:'mailto:rohan1234.keerthi@gmail.com',
+      gitHub:'https://github.com/rancidghoul',
+      linkIn:'https://www.linkedin.com/in/rohan-keerthi-31451625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+      insta:'https://www.instagram.com/w3.rohan/'
     },
     {
       id:109,
