@@ -12,6 +12,7 @@ import img70 from "../Images/DisplayPics/70.jpg";
 import img71 from "../Images/DisplayPics/71.jpg";
 import img72 from "../Images/DisplayPics/72.jpg";
 import img73 from "../Images/DisplayPics/73.jpg";
+import img74 from "../Images/DisplayPics/74.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -95,7 +96,7 @@ const Team = () => {
     },
     {
       id:121,
-      src:img00,
+      src:img74,
       name:'Manasa',
       post:'Mentor',
       dom:'AI domain',
