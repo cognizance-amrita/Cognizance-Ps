@@ -111,7 +111,7 @@ const Team = () => {
       desc:"Hi , I'm Shalini of the AIE department. I enjoy being the mentor of AI cognizance and have a keen interest in AI and machine learning. Sharing knowledge with others is something I truly appreciate.",
       mail:"mailto:ch.en.u4aie22056@ch.students.amrita.edu",
       gitHub:"https://github.com/ShaluDeen",
-      linkIn:"https://www.linkedin.com/in/shalini-dheena-dhayalan-54b040267/",
+      linkIn:"https://www.linkedin.com/in/shalini-deena-dhayalan",
       insta:"https://instagram.com/shalu_deen_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
     },
     {
