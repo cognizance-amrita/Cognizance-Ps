@@ -37,15 +37,15 @@ const Team = () => {
   let content = [
     {
       id: 1,
-      src: img1,
-      name: "Dr. A G Sreedevi",
+      src: img00,
+      name: "Dr. Deepak K",
       post: " Club Advisor ",
       // dom: "",
-      desc: "Dr. Sreedevi A. G. currently serves as Program Head of Cyber Security in the Department of Computer Science and Engineering, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai Campus.",
-      mail: "",
-      gitHub: "",
-      linkIn: "",
-      insta: "",
+      desc:"",
+      mail:"",
+      gitHub:"",
+      linkIn:"",
+      insta:"",
     },
     {
       id:110,
