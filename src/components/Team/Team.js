@@ -63,7 +63,7 @@ const Team = () => {
       post:"Mentor",
       dom:"Open Source Domain",
       desc:"Hi, I'm Rohitprasanna, a CSE student driven by a passion for coding. I'm eager to contribute to open source projects and leverage my strong foundation in backend and app development to create innovative solutions.",
-      mail:'therohitprasanna@gmail.com',
+      mail:'mailto:therohitprasanna@gmail.com',
       gitHub:'https://github.com/Rohit-Prasanna',
       linkIn:'https://www.linkedin.com/in/rohit-prasanna-aka-rp/',
       insta:'https://www.instagram.com/r.p_0102?igsh=MTBwbWRlMXlneWU0dA==',
@@ -76,7 +76,7 @@ const Team = () => {
       post:'Mentor',
       dom:'Open Source domain',
       desc:'',
-      mail:'',
+      mail:'mailto:',
       gitHub:'',
       linkIn:'',
       insta:''
@@ -88,7 +88,7 @@ const Team = () => {
       post:"Mentor",
       dom:"Open Source Domain",
       desc:"",
-      mail:"",
+      mail:"mailto:",
       gitHub:"",
       linkIn:"",
       insta:""
@@ -100,7 +100,7 @@ const Team = () => {
       post:'Mentor',
       dom:'AI domain',
       desc:'',
-      mail:'',
+      mail:'mailto:',
       gitHub:'',
       linkIn:'',
       insta:''
@@ -124,7 +124,7 @@ const Team = () => {
       post:'Mentor ',
       dom:'AI domain',
       desc:'',
-      mail:'',
+      mail:'mailto:',
       gitHub:'',
       linkIn:'',
       insta:''
@@ -136,7 +136,7 @@ const Team = () => {
       post:'Mentor',
       dom:'AI domain',
       desc:'',
-      mail:'',
+      mail:'mailto:',
       gitHub:'',
       linkIn:'',
       insta:''
@@ -148,7 +148,7 @@ const Team = () => {
       post:'Mentor',
       dom:'AI domain',
       desc:'',
-      mail:'ukjag2000@gmail.com',
+      mail:'mailto:ukjag2000@gmail.com',
       gitHub:'https://github.com/UKJaagadhep',
       linkIn:'https://www.linkedin.com/in/jagaadhep-u-k-64487728a/',
     },
@@ -159,7 +159,7 @@ const Team = () => {
       post:'Mentor ',
       dom:'AI domain',
       desc:'Doddi Sreenija Reddy is an undergraduate researcher and coder from the department of computer science and engineering primarily working on Machine learning, cloud computing and its applications.',
-      mail:'sreenijadreddy@gmail.com',
+      mail:'mailto:sreenijadreddy@gmail.com',
       gitHub:'https://github.com/Doddi-Sreenija-Reddy',
       linkIn:'https://www.linkedin.com/in/doddi-sreenija-reddy-49575b258',
       insta:'https://www.instagram.com/sreenija_reddy/'
@@ -171,7 +171,7 @@ const Team = () => {
       post:'Mentor ',
       dom:'CYS domain',
       desc:"Hi there! I'm Subramanian, a competitive programmer and cybersecurity enthusiast. I'm here to help you elevate your understanding of technology and computing. I'll guide you in optimizing your algorithms from O(N^2) to O(N) and teach you how to apply 'Mr. Robot' style techniques in real life. I will help you add your skills, commit to learning, and push your progress with me!",
-      mail:'vishnusubramani8@gmail.com',
+      mail:'mailto:vishnusubramani8@gmail.com',
       gitHub:'http://github.com/subra123',
       linkIn:'https://www.linkedin.com/in/subramanian-r-5b86bb215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       insta:'https://www.instagram.com/subramanian.r/'
@@ -183,7 +183,7 @@ const Team = () => {
       post:'Mentor ',
       dom:'CYS domain',
       desc:'',
-      mail:'',
+      mail:'mailto:',
       gitHub:'',
       linkIn:'',
       insta:''
@@ -195,7 +195,7 @@ const Team = () => {
       post:'Mentor',
       dom:'CYS domain',
       desc:'I am Sreeram Rohith. Student from CSE. I have completed projects on the self-identity of mental health using AI and machine learning, as well as on image steganography. Additionally, I have a strong interest in the cybersecurity domain. As a mentor in the Cognizance Club at Amrita University Chennai.',
-      mail:'sreeramrohithamrita@gmail.com',
+      mail:'mailto:sreeramrohithamrita@gmail.com',
       gitHub:'https://github.com/Sreeramrohith2005',
       linkIn:'https://www.linkedin.com/in/sreeram-rohith-449416262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       insta:'https://www.instagram.com/sreeramrohith5?igsh=bGloN3MzNG0wNW8w'
@@ -209,7 +209,7 @@ const Team = () => {
       post:"Mentor",
       dom:"CP Domain",
       desc:"As an enthusiastic Computer Science Engineering student at Amrita University, I have cultivated a passion for developing innovative software solutions that address real-world problems.",
-      mail:"kaushikkumbhat54@gmail.com",
+      mail:"mailto:kaushikkumbhat54@gmail.com",
       gitHub:"https://github.com/kaushik54git",
       linkIn:"https://www.linkedin.com/in/kaushik-kumbhat-747a08292/",
       insta:""
@@ -233,7 +233,7 @@ const Team = () => {
       post:"Mentor",
       dom:"CP Domain",
       desc:"",
-      mail:"",
+      mail:"mailto:",
       gitHub:"",
       linkIn:"",
       insta:""
