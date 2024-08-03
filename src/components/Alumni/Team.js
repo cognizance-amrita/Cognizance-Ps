@@ -380,7 +380,7 @@ const Team = () => {
       linkIn: "https://www.linkedin.com/in/strizerortix/",
       insta: "https://www.instagram.com/strizer_ortix/",
     },
-        {
+   {
       id: 30,
       src: img18,
       name: "Sudiptha A",
@@ -592,9 +592,7 @@ const Team = () => {
       insta:''
     },
     
-   
-
-{
+    {
       id: 18,
       src: img17,
       name: "Dhanvinesh K",
@@ -844,7 +842,7 @@ const Team = () => {
       gitHub: "https://github.com/Yogiraj587",
       linkIn: "https://www.linkedin.com/in/yogiraj-bhagavatula-741159213/",
       insta: "https://www.instagram.com/yogirajbhagavatula/",
-    },
+    }
     
     
 
