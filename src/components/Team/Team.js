@@ -60,7 +60,7 @@ const Team = () => {
       insta:'https://www.instagram.com/tr1ck_5t3r/'
     },
     {
-      id:121,
+      id:100,
       src:img65,
       name:'Nehal Khan',
       post:'Mentor',
@@ -73,7 +73,7 @@ const Team = () => {
     },
     
     {
-      id:90,
+      id:122,
       src:img00,
       name:"Rohith Prasanna",
       post:"Mentor",
@@ -86,7 +86,7 @@ const Team = () => {
           
     },
     {
-      id:109,
+      id:99,
       src:img00,
       name:'Meesala Jahnavi',
       post:'Mentor',
@@ -98,7 +98,7 @@ const Team = () => {
       insta:''
     },
     {
-      id:85,
+      id:121,
       src:img00,
       name:"Neelraj Reddy",
       post:"Mentor",
@@ -110,7 +110,7 @@ const Team = () => {
       insta:""
     },
     {
-      id:109,
+      id:121,
       src:img00,
       name:'Manasa',
       post:'Mentor',
@@ -122,7 +122,7 @@ const Team = () => {
       insta:''
     },
     {
-      id: 88,
+      id: 90,
       src:img59,
       name:"Shalini Dheenadhayalan",
       post:"Mentor",
@@ -220,7 +220,7 @@ const Team = () => {
 
     
     {
-      id:85,
+      id:109,
       src:img00,
       name:"Kaushik Kumbhat",
       post:"Mentor",
@@ -232,7 +232,7 @@ const Team = () => {
       insta:""
     },
     {
-      id:32,
+      id:109,
       src:img66,
       name:"Adithiyan",
       post:"Mentor",
@@ -244,7 +244,7 @@ const Team = () => {
       insta:"https://www.instagram.com/adithiyan_pv/",
     },
     {
-      id:85,
+      id:109,
       src:img00,
       name:"Shyam",
       post:"Mentor",
