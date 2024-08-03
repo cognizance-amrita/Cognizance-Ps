@@ -9,6 +9,7 @@ import img67 from "../Images/DisplayPics/67.jpg";
 import img68 from "../Images/DisplayPics/68.jpg";
 import img69 from "../Images/DisplayPics/69.jpg";
 import img70 from "../Images/DisplayPics/70.jpg";
+import img71 from "../Images/DisplayPics/71.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -152,15 +153,15 @@ const Team = () => {
     },
     {
       id:109,
-      src:img00,
+      src:img71,
       name:'Sreenija',
       post:'Mentor ',
       dom:'AI domain',
-      desc:'',
-      mail:'',
-      gitHub:'',
-      linkIn:'',
-      insta:''
+      desc:'Doddi Sreenija Reddy is an undergraduate researcher and coder from the department of computer science and engineering primarily working on Machine learning, cloud computing and its applications.',
+      mail:'sreenijadreddy@gmail.com',
+      gitHub:'https://github.com/Doddi-Sreenija-Reddy',
+      linkIn:'https://www.linkedin.com/in/doddi-sreenija-reddy-49575b258',
+      insta:'https://www.instagram.com/sreenija_reddy/'
     },
     {
       id:109,
