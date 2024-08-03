@@ -9,7 +9,6 @@ import img67 from "../Images/DisplayPics/67.jpg";
 import img68 from "../Images/DisplayPics/68.jpg";
 import img69 from "../Images/DisplayPics/69.jpg";
 import img70 from "../Images/DisplayPics/70.jpg";
-import img71 from "../Images/DisplayPics/71.jpg";
 import img72 from "../Images/DisplayPics/72.jpg";
 import img73 from "../Images/DisplayPics/73.jpg";
 import img74 from "../Images/DisplayPics/74.jpg";
@@ -100,11 +99,11 @@ const Team = () => {
       name:'Manasa',
       post:'Mentor',
       dom:'AI domain',
-      desc:'',
+      desc:'Hello, this is Manasa from the CSE Department. An AI enthusiast with a strong background in developing AI driven solutions and always excited to learn and experiment',
       mail:'mailto:nehanmm18@gmail.com',
       gitHub:'https://github.com/MadhuManasa18',
       linkIn:'https://www.linkedin.com/in/palavajjhala-neha-madhu-manasa-4a9794254',
-      insta:''
+      insta:'https://www.instagram.com/madhumanasa_99?igsh=MTljMmphbjU1MDJiZw=='
     },
     {
       id: 90,
@@ -156,7 +155,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:img71,
+      src:img00,
       name:'Sreenija',
       post:'Mentor ',
       dom:'AI domain',
