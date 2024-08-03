@@ -48,7 +48,6 @@ import img37 from "../Images/DisplayPics/37.jpg";
 import img38 from "../Images/DisplayPics/38.jpg";
 import img40 from "../Images/DisplayPics/40.jpg";
 import img41 from "../Images/DisplayPics/41.jpg";
-import img44 from "../Images/DisplayPics/44.jpg";
 import img49 from '../Images/DisplayPics/49.jpg';
 import img50 from '../Images/DisplayPics/50.jpg';
 import img51 from '../Images/DisplayPics/51.jpg';
