@@ -78,11 +78,11 @@ const Team = () => {
       name:"Rohith Prasanna",
       post:"Mentor",
       dom:"Open Source Domain",
-      desc:" ",
-      mail:'',
-      gitHub:'',
-      linkIn:'',
-      insta:'',
+      desc:"Hi, I'm Rohitprasanna, a CSE student driven by a passion for coding. I'm eager to contribute to open source projects and leverage my strong foundation in backend and app development to create innovative solutions.",
+      mail:'therohitprasanna@gmail.com',
+      gitHub:'https://github.com/Rohit-Prasanna',
+      linkIn:'https://www.linkedin.com/in/rohit-prasanna-aka-rp/',
+      insta:'https://www.instagram.com/r.p_0102?igsh=MTBwbWRlMXlneWU0dA==',
           
     },
     {
