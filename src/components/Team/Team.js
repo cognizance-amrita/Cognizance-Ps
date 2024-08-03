@@ -15,6 +15,7 @@ import img73 from "../Images/DisplayPics/73.jpg";
 import img74 from "../Images/DisplayPics/74.jpg";
 import img75 from "../Images/DisplayPics/75.jpg";
 import img76 from "../Images/DisplayPics/76.jpg";
+import img77 from "../Images/DisplayPics/77.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -24,14 +25,14 @@ const Team = () => {
   let content = [
     {
       id: 1,
-      src: img00,
+      src: img77,
       name: "Dr. Deepak K",
       post: " Club Advisor ",
       // dom: "",
-      desc:"",
-      mail:"",
+      desc:"Computer Vision enthusiast",
+      mail:"mailto:k_deepak@ch.amrita.edu",
       gitHub:"",
-      linkIn:"",
+      linkIn:"https://www.linkedin.com/in/deepak-krishnamoorthy-27023a47/",
       insta:"",
     },
     {
@@ -44,7 +45,7 @@ const Team = () => {
       mail:'mailto:tarungovindharaj2003@gmail.com',
       gitHub:'https://github.com/Tr1ck-5t3r',
       linkIn:'https://www.linkedin.com/in/tarun-r-g-02224a256/',
-      insta:'https://www.instagram.com/tr1ck_5t3r/'
+      insta:''
     },
     {
       id:100,
