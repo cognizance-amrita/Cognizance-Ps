@@ -34,7 +34,7 @@ const Team = () => {
       mail:"mailto:k_deepak@ch.amrita.edu",
       gitHub:"",
       linkIn:"https://www.linkedin.com/in/deepak-krishnamoorthy-27023a47/",
-      insta:"",
+      insta:""
     },
     {
       id:110,
@@ -58,7 +58,7 @@ const Team = () => {
       mail:"mailto:nehalmicro29@gmail.com",
       gitHub:"https://github.com/Nehal-Khan-29",
       linkIn:"https://www.linkedin.com/in/nehal-khan-29--",
-      insta:"https://www.instagram.com/nk29_nehal/?igshid=ODhmNDk1YzU=",  
+      insta:"https://www.instagram.com/nk29_nehal/?igshid=ODhmNDk1YzU="
     },
     {
       id:122,
@@ -106,7 +106,7 @@ const Team = () => {
       mail:'mailto:therohitprasanna@gmail.com',
       gitHub:'https://github.com/Rohit-Prasanna',
       linkIn:'https://www.linkedin.com/in/rohit-prasanna-aka-rp/',
-      insta:'https://www.instagram.com/r.p_0102?igsh=MTBwbWRlMXlneWU0dA==',   
+      insta:'https://www.instagram.com/r.p_0102?igsh=MTBwbWRlMXlneWU0dA=='
     },
     {
       id:90,
@@ -166,7 +166,7 @@ const Team = () => {
       mail:"mailto:ch.en.u4aie22056@ch.students.amrita.edu",
       gitHub:"https://github.com/ShaluDeen",
       linkIn:"https://www.linkedin.com/in/shalini-deena-dhayalan",
-      insta:"https://instagram.com/shalu_deen_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
+      insta:"https://instagram.com/shalu_deen_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D"
     },
     {
       id:109,
@@ -202,7 +202,7 @@ const Team = () => {
       mail:"mailto:adithiyan999@gmail.com",
       gitHub:"https://github.com/Adithiyanpv",
       linkIn:"https://www.linkedin.com/in/adithiyan-pv-68639b258/",
-      insta:"https://www.instagram.com/adithiyan_pv/",
+      insta:"https://www.instagram.com/adithiyan_pv/"
     },
     {
       id:109,
