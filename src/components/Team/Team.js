@@ -72,13 +72,13 @@ const Team = () => {
     {
       id:99,
       src:img00,
-      name:'Meesala Jahnavi',
+      name:'M. Jahnavi',
       post:'Mentor',
       dom:'Open Source domain',
-      desc:'',
-      mail:'mailto:',
-      gitHub:'',
-      linkIn:'',
+      desc:"Hi, I'm Jahnavi from CSE department. I’m an open source mentor with a keen interest in full stack development and a passion for coding. I love learning about new technologies and exploring innovative solutions.",
+      mail:'mailto:oranjecloud@gmail.com',
+      gitHub:'https://github.com/Jahnavi-57',
+      linkIn:'https://www.linkedin.com/in/m-jahanave',
       insta:''
     },
     {
@@ -100,9 +100,9 @@ const Team = () => {
       post:'Mentor',
       dom:'AI domain',
       desc:'',
-      mail:'mailto:',
-      gitHub:'',
-      linkIn:'',
+      mail:'mailto:nehanmm18@gmail.com',
+      gitHub:'https://github.com/MadhuManasa18',
+      linkIn:'https://www.linkedin.com/in/palavajjhala-neha-madhu-manasa-4a9794254',
       insta:''
     },
     {
@@ -132,13 +132,13 @@ const Team = () => {
     {
       id:109,
       src:img69,
-      name:'Ragi Pranav',
+      name:'R Pranav',
       post:'Mentor',
       dom:'AI domain',
-      desc:'',
-      mail:'mailto:',
-      gitHub:'',
-      linkIn:'',
+      desc:'Hi!, I am Ragi Pranav, student CSE Department. I am passionate on Ai domain and I been working on a project on Credit Scoring using ML and AL. I have been assign in  Ai domain mentor and being assist with you',
+      mail:'mailto:ragipranav24@gmail.com',
+      gitHub:'https://github.com/PranavRagi',
+      linkIn:'https://www.linkedin.com/in/pranav-ragi-799157260/',
       insta:''
     },
     {
@@ -151,6 +151,7 @@ const Team = () => {
       mail:'mailto:ukjag2000@gmail.com',
       gitHub:'https://github.com/UKJaagadhep',
       linkIn:'https://www.linkedin.com/in/jagaadhep-u-k-64487728a/',
+      insta:''
     },
     {
       id:109,
