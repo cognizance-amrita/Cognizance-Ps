@@ -10,6 +10,7 @@ import img68 from "../Images/DisplayPics/68.jpg";
 import img69 from "../Images/DisplayPics/69.jpg";
 import img70 from "../Images/DisplayPics/70.jpg";
 import img71 from "../Images/DisplayPics/71.jpg";
+import img72 from "../Images/DisplayPics/72.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -165,15 +166,15 @@ const Team = () => {
     },
     {
       id:109,
-      src:img00,
+      src:img72,
       name:'Subramanian',
       post:'Mentor ',
       dom:'CYS domain',
-      desc:'',
-      mail:'',
-      gitHub:'',
-      linkIn:'',
-      insta:''
+      desc:'Hi there! I'm Subramanian, a competitive programmer and cybersecurity enthusiast. I'm here to help you elevate your understanding of technology and computing. I'll guide you in optimizing your algorithms from O(N^2) to O(N) and teach you how to apply "Mr. Robot" style techniques in real life. I will help you add your skills, commit to learning, and push your progress with me!',
+      mail:'vishnusubramani8@gmail.com',
+      gitHub:'http://github.com/subra123',
+      linkIn:'https://www.linkedin.com/in/subramanian-r-5b86bb215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+      insta:'https://www.instagram.com/subramanian.r/'
     },
     {
       id:109,
