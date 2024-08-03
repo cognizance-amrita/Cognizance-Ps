@@ -235,11 +235,11 @@ const Team = () => {
       name:"Shyam",
       post:"Mentor",
       dom:"CP Domain",
-      desc:"",
-      mail:"mailto:",
-      gitHub:"",
-      linkIn:"",
-      insta:""
+      desc:"Hi I'm Shyam Prasath from AIE department. I am a passionate programmer and algorithmic thinker who is interested in CP and optimization of deployment. I love to collaborate with peers to build innovative solutions.",
+      mail:"mailto:shyamprasath00@gmail.com",
+      gitHub:"http://github.com/klustere",
+      linkIn:"http://www.linkedin.com/in/shyam-prasath-j",
+      insta:"https://www.instagram.com/@klustere.pvt/"
     },
 
   ];
