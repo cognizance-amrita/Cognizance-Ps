@@ -239,7 +239,7 @@ const Team = () => {
       gitHub:"",
       linkIn:"",
       insta:""
-    },
+    }
 
   ];
 
