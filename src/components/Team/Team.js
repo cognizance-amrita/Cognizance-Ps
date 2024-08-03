@@ -74,7 +74,7 @@ const Team = () => {
     
     {
       id: 90,
-      src: ,
+      src: img00,
       name: "Rohith Prasanna",
       post: "Mentor",
       dom: "Open Source Domain",
@@ -88,7 +88,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:,
+      src: img00,
       name:'Meesala Jahnavi',
       post:'Mentor',
       dom:'Open Source domain',
@@ -100,7 +100,7 @@ const Team = () => {
     },
     {
       id:85,
-      src:,
+      src: img00,
       name:"Neelraj Reddy",
       post:"Mentor",
       dom:"Open Source Domain",
@@ -112,7 +112,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:,
+      src: img00,
       name:'Manasa',
       post:'Mentor',
       dom:'AI domain',
@@ -136,7 +136,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:,
+      src: img00,
       name:'Jeba',
       post:'Mentor ',
       dom:'AI domain',
@@ -148,7 +148,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:,
+      src: img00,
       name:'Ragi Pranav',
       post:'Mentor',
       dom:'AI domain',
@@ -160,7 +160,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:,
+      src: img00,
       name:'Jagadeep',
       post:'Mentor',
       dom:'AI domain',
@@ -172,7 +172,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:,
+      src: img00,
       name:'Sreenija',
       post:'Mentor ',
       dom:'AI domain',
@@ -184,7 +184,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:,
+      src: img00,
       name:'Subramanian',
       post:'Mentor ',
       dom:'CYS domain',
@@ -196,7 +196,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:,
+      src: img00,
       name:'Keerthi Rohan',
       post:'Mentor ',
       dom:'CYS domain',
@@ -208,7 +208,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:,
+      src: img00,
       name:'Sreeram Rohith',
       post:'Mentor',
       dom:'CYS domain',
@@ -222,7 +222,7 @@ const Team = () => {
     
     {
       id:85,
-      src:,
+      src: img00,
       name:"Kaushik Kumbhat",
       post:"Mentor",
       dom:"CP Domain",
@@ -246,7 +246,7 @@ const Team = () => {
     },
     {
       id:85,
-      src:,
+      src: img00,
       name:"Shyam",
       post:"Mentor",
       dom:"CP Domain",
