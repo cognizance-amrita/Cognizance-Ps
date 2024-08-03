@@ -157,7 +157,7 @@ const Team = () => {
     {
       id:109,
       src:img00,
-      name:'Sreenija',
+      name:'Doddi Sreenija Reddy',
       post:'Mentor ',
       dom:'AI domain',
       desc:'Doddi Sreenija Reddy is an undergraduate researcher and coder from the department of computer science and engineering primarily working on Machine learning, cloud computing and its applications.',
