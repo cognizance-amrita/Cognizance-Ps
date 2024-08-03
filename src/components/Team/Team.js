@@ -16,6 +16,7 @@ import img74 from "../Images/DisplayPics/74.jpg";
 import img75 from "../Images/DisplayPics/75.jpg";
 import img76 from "../Images/DisplayPics/76.jpg";
 import img77 from "../Images/DisplayPics/77.jpg";
+import img78 from "../Images/DisplayPics/78.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -51,7 +52,7 @@ const Team = () => {
       id:100,
       src:img65,
       name:'Nehal Khan',
-      post:'Mentor',
+      post:'Club Lead',
       dom:'Open Source Domain',
       desc:'Hi! Im Nehal Khan, student in CSE department, Im a passionate coder with a keen interest in Operating Systems, AI, and UI/UX. I thrive on the thrill of open-source projects, turning lines of code into innovative realities.',
       mail:"mailto:nehalmicro29@gmail.com",
@@ -63,7 +64,7 @@ const Team = () => {
       id:121,
       src:img74,
       name:'Manasa',
-      post:'Mentor',
+      post:'Club Lead',
       dom:'AI domain',
       desc:'Hello, this is Manasa from the CSE Department. An AI enthusiast with a strong background in developing AI driven solutions and always excited to learn and experiment',
       mail:'mailto:nehanmm18@gmail.com',
@@ -75,7 +76,7 @@ const Team = () => {
       id:109,
       src:img67,
       name:'Sreeram Rohith',
-      post:'Mentor',
+      post:'Club Co-Lead',
       dom:'CYS domain',
       desc:'I am Sreeram Rohith. Student from CSE. I have completed projects on the self-identity of mental health using AI and machine learning, as well as on image steganography. Additionally, I have a strong interest in the cybersecurity domain. As a mentor in the Cognizance Club at Amrita University Chennai.',
       mail:'mailto:sreeramrohithamrita@gmail.com',
@@ -109,7 +110,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:img00,
+      src:img78,
       name:'Doddi Sreenija Reddy',
       post:'Mentor ',
       dom:'AI domain',
