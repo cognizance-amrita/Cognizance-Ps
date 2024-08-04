@@ -17,6 +17,7 @@ import img76 from "../Images/DisplayPics/76.jpg";
 import img77 from "../Images/DisplayPics/77.jpg";
 import img78 from "../Images/DisplayPics/78.jpg";
 import img79 from "../Images/DisplayPics/79.jpg";
+import img80 from "../Images/DisplayPics/80.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -218,15 +219,15 @@ const Team = () => {
     },
     {
       id:85,
-      src:img00,
+      src:img80,
       name:"Neelraj Reddy",
       post:"Mentor",
       dom:"Blog Manager",
-      desc:"",
-      mail:"mailto:",
-      gitHub:"",
-      linkIn:"",
-      insta:""
+      desc:"It's Neelraj R from AIE. I am a life long learner. Loves DIY. Speak with me once you will never forget me 🙌🏻..",
+      mail:"mailto:neelrajreddy1694@gmail.com",
+      gitHub:"https://github.com/Neelraj-Reddy",
+      linkIn:"https://in.linkedin.com/in/neelraj-reddy",
+      insta:"https://www.instagram.com/neelraj___reddy"
     }
 
   ];
