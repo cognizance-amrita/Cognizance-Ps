@@ -43,7 +43,7 @@ const Team = () => {
       name:'Nehal Khan',
       post:'Club Lead',
       dom:'Open Source Domain',
-      desc:'Hi! Im Nehal Khan, student in CSE department, Im a passionate coder with a keen interest in Operating Systems, AI, and UI/UX. I thrive on the thrill of open-source projects, turning lines of code into innovative realities.',
+      desc:"Hi! I'm Nehal, a student in the CSE department, I'm a passionate coder with a keen interest in Open Source, AI, and UI/UX. I thrive on the thrill of open-source projects, turning lines of code into innovative realities.",
       mail:"mailto:nehalmicro29@gmail.com",
       gitHub:"https://github.com/Nehal-Khan-29",
       linkIn:"https://www.linkedin.com/in/nehal-khan-29--",
