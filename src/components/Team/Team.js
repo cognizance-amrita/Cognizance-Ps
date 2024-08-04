@@ -2,7 +2,6 @@ import React from "react";
 import Card from "./Card.js";
 import "./Team.css"; 
 import img00 from "../Images/DisplayPics/00.jpg";
-import img50 from '../Images/DisplayPics/50.jpg';
 import img65 from "../Images/DisplayPics/65.jpg";
 import img66 from "../Images/DisplayPics/66.jpg";
 import img67 from "../Images/DisplayPics/67.jpg";
@@ -36,18 +35,6 @@ const Team = () => {
       gitHub:"",
       linkIn:"https://www.linkedin.com/in/deepak-krishnamoorthy-27023a47/",
       insta:""
-    },
-    {
-      id:110,
-      src:img50,
-      name:'Tarun R.G',
-      post:'Club Lead',
-      dom:'',
-      desc:'Hey y\'all I\'m Tarun from CSE department. Im was jr mentor for competitive programming. I\'m a Devops and AI enthusiast. I love to learn new things and to read.',
-      mail:'mailto:tarungovindharaj2003@gmail.com',
-      gitHub:'https://github.com/Tr1ck-5t3r',
-      linkIn:'https://www.linkedin.com/in/tarun-r-g-02224a256/',
-      insta:''
     },
     {
       id:100,
