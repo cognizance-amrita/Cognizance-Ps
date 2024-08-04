@@ -17,6 +17,7 @@ import img75 from "../Images/DisplayPics/75.jpg";
 import img76 from "../Images/DisplayPics/76.jpg";
 import img77 from "../Images/DisplayPics/77.jpg";
 import img78 from "../Images/DisplayPics/78.jpg";
+import img79 from "../Images/DisplayPics/79.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -98,7 +99,7 @@ const Team = () => {
     },
     {
       id:121,
-      src:img00,
+      src:img79,
       name:"Rohith Prasanna",
       post:"Mentor",
       dom:"Open Source Domain",
