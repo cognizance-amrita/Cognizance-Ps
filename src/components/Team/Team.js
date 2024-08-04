@@ -1,7 +1,6 @@
 import React from "react";
 import Card from "./Card.js";
 import "./Team.css"; 
-import img00 from "../Images/DisplayPics/00.jpg";
 import img50 from "../Images/DisplayPics/50.jpg";
 import img65 from "../Images/DisplayPics/65.jpg";
 import img66 from "../Images/DisplayPics/66.jpg";
@@ -45,7 +44,7 @@ const Team = () => {
       name: "Tarun R G",
       post: "Club lead",
       // dom: "",
-      desc:"Hey y\'all I\'m Tarun from CSE department. Im was jr mentor for competitive programming. I\'m a Devops and AI enthusiast. I love to learn new things and to read.",
+      desc:"Hey y'all I'm Tarun from the CSE department. I was a jr mentor for competitive programming. I'm a DevOps and AI enthusiast. I love to learn new things and to read.",
       mail:"mailto:",
       gitHub:"",
       linkIn:"",
