@@ -38,6 +38,18 @@ const Team = () => {
       insta:""
     },
     {
+      id: 1,
+      src: img50,
+      name: "Tarun R G",
+      post: "Club lead",
+      // dom: "",
+      desc:"",
+      mail:"mailto:",
+      gitHub:"",
+      linkIn:"",
+      insta:""
+    },
+    {
       id:100,
       src:img65,
       name:'Nehal Khan',
