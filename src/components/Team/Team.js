@@ -19,6 +19,7 @@ import img77 from "../Images/DisplayPics/77.jpg";
 import img78 from "../Images/DisplayPics/78.jpg";
 import img79 from "../Images/DisplayPics/79.jpg";
 import img80 from "../Images/DisplayPics/80.jpg";
+import img81 from "../Images/DisplayPics/81.jpg";
 import Navbar from './../navbar/Navbar';
 import Footer from "../Footer/Footer";
 const Team = () => {
@@ -44,7 +45,7 @@ const Team = () => {
       name: "Tarun R G",
       post: "Club lead",
       // dom: "",
-      desc:"",
+      desc:"Hey y\'all I\'m Tarun from CSE department. Im was jr mentor for competitive programming. I\'m a Devops and AI enthusiast. I love to learn new things and to read.",
       mail:"mailto:",
       gitHub:"",
       linkIn:"",
@@ -172,7 +173,7 @@ const Team = () => {
     },
     {
       id:109,
-      src:img00,
+      src:img81,
       name:'Keerthi Rohan',
       post:'Mentor ',
       dom:'CYS domain',
