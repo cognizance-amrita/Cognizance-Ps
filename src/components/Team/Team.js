@@ -2,6 +2,7 @@ import React from "react";
 import Card from "./Card.js";
 import "./Team.css"; 
 import img00 from "../Images/DisplayPics/00.jpg";
+import img50 from "../Images/DisplayPics/50.jpg";
 import img65 from "../Images/DisplayPics/65.jpg";
 import img66 from "../Images/DisplayPics/66.jpg";
 import img67 from "../Images/DisplayPics/67.jpg";
