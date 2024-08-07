@@ -63,30 +63,6 @@ const Team = () => {
       insta:"https://www.instagram.com/nk29_nehal/?igshid=ODhmNDk1YzU="
     },
     {
-      id:122,
-      src:img74,
-      name:'Manasa',
-      post:'Mentor',
-      dom:'AI domain',
-      desc:'Hello, this is Manasa from the CSE Department. An AI enthusiast with a strong background in developing AI driven solutions and always excited to learn and experiment',
-      mail:'mailto:nehanmm18@gmail.com',
-      gitHub:'https://github.com/MadhuManasa18',
-      linkIn:'https://www.linkedin.com/in/palavajjhala-neha-madhu-manasa-4a9794254',
-      insta:'https://www.instagram.com/madhumanasa_99?igsh=MTljMmphbjU1MDJiZw=='
-    },
-    {
-      id:99,
-      src:img67,
-      name:'Sreeram Rohith',
-      post:'Mentor',
-      dom:'CYS domain',
-      desc:'I am Sreeram Rohith. Student from CSE. I have completed projects on the self-identity of mental health using AI and machine learning, as well as on image steganography. Additionally, I have a strong interest in the cybersecurity domain. As a mentor in the Cognizance Club at Amrita University Chennai.',
-      mail:'mailto:sreeramrohithamrita@gmail.com',
-      gitHub:'https://github.com/Sreeramrohith2005',
-      linkIn:'https://www.linkedin.com/in/sreeram-rohith-449416262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
-      insta:'https://www.instagram.com/sreeramrohith5?igsh=bGloN3MzNG0wNW8w'
-    },
-    {
       id:121,
       src:img76,
       name:'M Jahnavi',
@@ -147,6 +123,18 @@ const Team = () => {
       insta:''
     },
     {
+      id:122,
+      src:img74,
+      name:'Manasa',
+      post:'Mentor',
+      dom:'AI domain',
+      desc:'Hello, this is Manasa from the CSE Department. An AI enthusiast with a strong background in developing AI driven solutions and always excited to learn and experiment',
+      mail:'mailto:nehanmm18@gmail.com',
+      gitHub:'https://github.com/MadhuManasa18',
+      linkIn:'https://www.linkedin.com/in/palavajjhala-neha-madhu-manasa-4a9794254',
+      insta:'https://www.instagram.com/madhumanasa_99?igsh=MTljMmphbjU1MDJiZw=='
+    },
+    {
       id:109,
       src:img69,
       name:'R Pranav',
@@ -181,6 +169,18 @@ const Team = () => {
       gitHub:'https://github.com/rancidghoul',
       linkIn:'https://www.linkedin.com/in/rohan-keerthi-31451625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       insta:'https://www.instagram.com/w3.rohan/'
+    },
+    {
+      id:99,
+      src:img67,
+      name:'Sreeram Rohith',
+      post:'Mentor',
+      dom:'CYS domain',
+      desc:'I am Sreeram Rohith. Student from CSE. I have completed projects on the self-identity of mental health using AI and machine learning, as well as on image steganography. Additionally, I have a strong interest in the cybersecurity domain. As a mentor in the Cognizance Club at Amrita University Chennai.',
+      mail:'mailto:sreeramrohithamrita@gmail.com',
+      gitHub:'https://github.com/Sreeramrohith2005',
+      linkIn:'https://www.linkedin.com/in/sreeram-rohith-449416262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+      insta:'https://www.instagram.com/sreeramrohith5?igsh=bGloN3MzNG0wNW8w'
     },
     {
       id:109,
