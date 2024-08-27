@@ -1,7 +1,6 @@
 import React from "react";
 import Card from "./Card.js";
 import "./Team.css"; 
-import img50 from "../Images/DisplayPics/50.jpg";
 import img65 from "../Images/DisplayPics/65.jpg";
 import img66 from "../Images/DisplayPics/66.jpg";
 import img67 from "../Images/DisplayPics/67.jpg";
@@ -36,18 +35,6 @@ const Team = () => {
       mail:"mailto:k_deepak@ch.amrita.edu",
       gitHub:"",
       linkIn:"https://www.linkedin.com/in/deepak-krishnamoorthy-27023a47/",
-      insta:""
-    },
-    {
-      id: 1,
-      src: img50,
-      name: "Tarun R G",
-      post: "Club lead",
-      // dom: "",
-      desc:"Hey y'all I'm Tarun from the CSE department. I was a jr mentor for competitive programming. I'm a DevOps and AI enthusiast. I love to learn new things and to read.",
-      mail:"mailto:",
-      gitHub:"",
-      linkIn:"",
       insta:""
     },
     {
