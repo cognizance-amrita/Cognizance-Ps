@@ -41,13 +41,25 @@ const Team = () => {
       id:100,
       src:img65,
       name:'Nehal Khan',
-      post:'Mentor',
+      post:'President',
       dom:'Open Source Domain',
       desc:"Hi! I'm Nehal, a student in the CSE department, I'm a passionate coder with a keen interest in Open Source, AI, and UI/UX. I thrive on the thrill of open-source projects, turning lines of code into innovative realities.",
       mail:"mailto:nehalmicro29@gmail.com",
       gitHub:"https://github.com/Nehal-Khan-29",
       linkIn:"https://www.linkedin.com/in/nehal-khan-29--",
       insta:"https://www.instagram.com/nk29_nehal/?igshid=ODhmNDk1YzU="
+    },
+        {
+      id:109,
+      src:img75,
+      name:"Shyam",
+      post:"Vice President",
+      dom:"CP Domain",
+      desc:"Hi I'm Shyam Prasath from AIE department. I am a passionate programmer and algorithmic thinker who is interested in CP and optimization of deployment. I love to collaborate with peers to build innovative solutions.",
+      mail:"mailto:shyamprasath00@gmail.com",
+      gitHub:"http://github.com/klustere",
+      linkIn:"http://www.linkedin.com/in/shyam-prasath-j",
+      insta:"https://www.instagram.com/@klustere.pvt/"
     },
     {
       id:121,
@@ -204,18 +216,6 @@ const Team = () => {
       gitHub:"https://github.com/kaushik54git",
       linkIn:"https://www.linkedin.com/in/kaushik-kumbhat-747a08292/",
       insta:""
-    },
-    {
-      id:109,
-      src:img75,
-      name:"Shyam",
-      post:"Mentor",
-      dom:"CP Domain",
-      desc:"Hi I'm Shyam Prasath from AIE department. I am a passionate programmer and algorithmic thinker who is interested in CP and optimization of deployment. I love to collaborate with peers to build innovative solutions.",
-      mail:"mailto:shyamprasath00@gmail.com",
-      gitHub:"http://github.com/klustere",
-      linkIn:"http://www.linkedin.com/in/shyam-prasath-j",
-      insta:"https://www.instagram.com/@klustere.pvt/"
     },
     {
       id:85,
