@@ -10,7 +10,7 @@ import img70 from "../Images/DisplayPics/70.jpg";
 import img71 from "../Images/DisplayPics/71.jpg";
 import img72 from "../Images/DisplayPics/72.jpg";
 import img73 from "../Images/DisplayPics/73.jpg";
-import img74 from "../Images/DisplayPics/74.jpg";
+//import img74 from "../Images/DisplayPics/74.jpg";
 import img75 from "../Images/DisplayPics/75.jpg";
 import img76 from "../Images/DisplayPics/76.jpg";
 import img77 from "../Images/DisplayPics/77.jpg";
