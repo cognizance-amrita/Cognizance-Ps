@@ -121,18 +121,18 @@ const Team = () => {
       linkIn:'https://www.linkedin.com/in/jagaadhep-u-k-64487728a/',
       insta:''
     },
-    {
-      id:122,
-      src:img74,
-      name:'Manasa',
-      post:'Mentor',
-      dom:'AI domain',
-      desc:'Hello, this is Manasa from the CSE Department. An AI enthusiast with a strong background in developing AI driven solutions and always excited to learn and experiment',
-      mail:'mailto:nehanmm18@gmail.com',
-      gitHub:'https://github.com/MadhuManasa18',
-      linkIn:'https://www.linkedin.com/in/palavajjhala-neha-madhu-manasa-4a9794254',
-      insta:'https://www.instagram.com/madhumanasa_99?igsh=MTljMmphbjU1MDJiZw=='
-    },
+//    {
+//      id:122,
+//      src:img74,
+//      name:'Manasa',
+//      post:'Mentor',
+//      dom:'AI domain',
+//      desc:'Hello, this is Manasa from the CSE Department. An AI enthusiast with a strong background in developing AI driven solutions and always excited to learn and experiment',
+//      mail:'mailto:nehanmm18@gmail.com',
+//      gitHub:'https://github.com/MadhuManasa18',
+//      linkIn:'https://www.linkedin.com/in/palavajjhala-neha-madhu-manasa-4a9794254',
+//      insta:'https://www.instagram.com/madhumanasa_99?igsh=MTljMmphbjU1MDJiZw=='
+//    },
     {
       id:109,
       src:img69,
